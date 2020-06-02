@@ -16,8 +16,8 @@ role: PhD Student
 organizations:
 #- name: Cryptography Group
 #  url: "https://cs.nyu.edu/crg/cryptography/"
-#- name: Department of Computer Science
-#  url: "https://cs.nyu.edu/home/index.html"
+- name: Department of Computer Science
+  url: "https://cs.nyu.edu/home/index.html"
 - name: Courant Institute of Mathematical Sciences
   url: "https://cims.nyu.edu/"
 - name: New York University
@@ -75,6 +75,8 @@ user_groups:
 - Visitors
 ---
 
-I am a first year PhD student working with [Yevgeniy Dodis](https://cs.nyu.edu/~dodis/index.html) at NYU. We work on projects related to Secure Group Messaging.
+I am a first year PhD student working with [Yevgeniy Dodis](https://cs.nyu.edu/~dodis/index.html) in the [Cryptography Lab](https://cs.nyu.edu/crg/cryptography/) at NYU. We work on projects related to Secure Group Messaging.
+
+I am generally interested in Cryptography, Computational Complexity, Algorithms, and Theoretical Computer Science, as a whole.
 
 I previously obtained a BS in Computer Science from Columbia University, where I worked with [Allison Bishop](https://www.thecomputersciencecomedian.com/). We worked on projects related to Lattice-Based Cryptography.
