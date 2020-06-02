@@ -4,3 +4,6 @@
 # Hugo
 resources/
 public/
+
+# me
+config/_default/params.toml
