@@ -49,7 +49,7 @@ social:
 - icon: envelope
   icon_pack: fas
   #link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-  link: 'mailto:afb383@cs.nyu.edu'
+  link: 'mailto:abienstock@cs.nyu.edu'
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -75,8 +75,8 @@ user_groups:
 - Visitors
 ---
 
-I am a first year PhD student working with [Yevgeniy Dodis](https://cs.nyu.edu/~dodis/index.html) in the [Cryptography Lab](https://cs.nyu.edu/crg/cryptography/) at NYU. We work on projects related to Secure Group Messaging.
+I am a first year PhD student working with [Professor Yevgeniy Dodis](https://cs.nyu.edu/~dodis/index.html) in the [Cryptography Lab](https://cs.nyu.edu/crg/cryptography/) at NYU. We work on projects related to Secure Group Messaging --- specifically efficient group key agreement protocols with robust security properties and associated communication complexity lower bounds.
 
-I am generally interested in Cryptography, Computational Complexity, Algorithms, and Theoretical Computer Science, as a whole.
+<!-- I am generally interested in Cryptography, Computational Complexity, Algorithms, and Theoretical Computer Science, as a whole. -->
 
-I previously obtained a BS in Computer Science from Columbia University, where I worked with [Allison Bishop](https://www.thecomputersciencecomedian.com/). We worked on projects related to Lattice-Based Cryptography.
+I previously obtained a BS in Computer Science from Columbia University, where I worked with [Professor Allison Bishop](https://www.thecomputersciencecomedian.com/). We worked on projects related to Lattice-Based Cryptography and its connections (or lack thereof) with Group-Based Cryptography.
